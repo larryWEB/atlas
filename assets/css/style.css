@@ -135,17 +135,16 @@ text-align: center;
 	justify-content:center;
 }
 
+.logo-card img{
+width:40px
+}
+
 
 .logo-card{
 	display: flex;
 	text-align: center;
 	justify-content:center;
 gap:7px;
-}
-
-.logo-card img{
-width:40px
-	height:40px;
 }
 
 
