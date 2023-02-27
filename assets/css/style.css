@@ -817,7 +817,10 @@ footer h3{
 	font-family: 'Playfair Display', serif;
 }
 
-
+footer a{
+	color:black;
+	font-size:17px;
+}
 
 
 	/* MEDIA QUERY STYLE RULES */
